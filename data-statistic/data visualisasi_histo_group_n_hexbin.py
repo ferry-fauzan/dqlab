@@ -10,4 +10,4 @@ plt.show()
 #hex binplot
 raw_data.plot.hexbin(x='Pendapatan', y='Total', gridsize=25, rot=90)
 plt.tight_layout()
-plt.show()
+plt.show()  
